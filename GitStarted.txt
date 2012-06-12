@@ -1,0 +1,24 @@
+1) Create GITHub account
+2) Install GIT from 
+	http://git-scm.com/downloads
+3) SSH Keys
+	https://help.github.com/articles/generating-ssh-keys
+3) Basic Basic setup
+	$ git config --global user.name "Your Name Here"
+	$ git config --global user.email "your_email@youremail.com"
+	
+4) Actually DO something -- the big 4
+	git status
+	git add
+	git commit -m "word"
+	git push
+	
+Extra Items if we have time:
+	Where does GITBash keep things?
+		\user\<username>
+	.bash_history
+	.bash_profile
+	.bashrc
+	.gitconfig
+	.gitk
+	
