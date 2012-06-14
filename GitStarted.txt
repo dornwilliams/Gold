@@ -17,8 +17,15 @@ Extra Items if we have time:
 	Where does GITBash keep things?
 		\user\<username>
 	.bash_history
-	.bash_profile
+	.bash_profile - place for startup commands
 	.bashrc
-	.gitconfig
+	.gitconfig -- global config
 	.gitk
+	
+Resources:
+	\\fryfiles\projects\TechnicalServices\ebooks\progit.pdf
+	http://wiki.fry.com/bin/view/Main/WebHome?topic=GitSetup
+	http://ndpsoftware.com/git-cheatsheet.html
+	
+
 	
