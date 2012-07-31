@@ -1,3 +1,5 @@
+
+=======
 1) Create GITHub account
 2) Install GIT from 
 	http://git-scm.com/downloads
@@ -27,6 +29,3 @@ Resources:
 	\\fryfiles\projects\TechnicalServices\ebooks\progit.pdf
 	http://wiki.fry.com/bin/view/Main/WebHome?topic=GitSetup
 	http://ndpsoftware.com/git-cheatsheet.html
-	
-
-	
