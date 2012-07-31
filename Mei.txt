@@ -1,3 +1,8 @@
 Test commit again,
 
+<<<<<<< HEAD
 Hello hello Mei
+=======
+branch tests :wq
+Hello Mei
+>>>>>>> 73ef0eb7e112679af16a8681ebe889220f3236be
