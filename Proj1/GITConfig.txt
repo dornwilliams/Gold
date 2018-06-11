@@ -11,6 +11,9 @@
 # git lg1-4: graph mode
 # rerere: supposedly makes repeated merges easier as Git remembers previous decisions
 
+[dorn]
+	now=180611
+
 [alias]
 	lg = log --abbrev-commit --decorate
 	lg1 = log --graph --all --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%cr)%C(reset) %C(white)%s%C(reset) %C(bold white)— %cn%C(reset)%C(bold yellow)%d%C(reset)' --abbrev-commit --date=relative 
