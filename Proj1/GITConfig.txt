@@ -26,7 +26,7 @@
 [color "branch"]
 	current = yellow reverse
 	local = yellow
-	remote = green
+
 	meta = yellow bold
 	frag = magenta bold
 	old = red bold
